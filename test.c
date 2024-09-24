@@ -1,0 +1,1 @@
+unsigned volatile int sadness = 1;
